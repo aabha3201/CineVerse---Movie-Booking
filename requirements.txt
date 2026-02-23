@@ -1,4 +1,4 @@
-gunicorn==25.1.0
+gunicorn==23.0.0
 packaging==26.0
 whitenoise==6.11.0
 Django>=3.2,<4.0
